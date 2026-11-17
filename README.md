@@ -1,23 +1,44 @@
+<h1 align="center">Hi, I'm Bünyamin 👋</h1>
 
-
-<h1 align="center">Hi 👋, I'm Bünyamin</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e812ae23-4542-4b4c-bba9-2c1832675803/dfaf87i-35558ca0-8455-494a-8976-8476a6db2fd4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4MTJhZTIzLTQ1NDItNGI0Yy1iYmE5LTJjMTgzMjY3NTgwM1wvZGZhZjg3aS0zNTU1OGNhMC04NDU1LTQ5NGEtODk3Ni04NDc2YTZkYjJmZDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0eMwJQX-KhWNzFPdSi1lQJs24KeQNlUmIoFykZHSnIk"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atnbn&label=Profile%20views&color=0e75b6&style=flat" alt="atnbn" /> </p>
-
-- 👨‍💻 All of my projects are available at [atnbn.github.io/Portfolio/#/](https://atnbn.github.io/React-Portfolio/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="www.linkedin.com/in/bünyamin-altan-932322243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bünyamin altan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=640&lines=Frontend+Developer+%C2%B7+Angular+%C2%B7+React+%C2%B7+Vue+%C2%B7+Lit;TypeScript%2C+Next.js+and+Supabase;Spec+%E2%86%92+AI+agent+%E2%86%92+review+%E2%86%92+tests" alt="Frontend Developer · Angular · React · Vue · Lit" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/b%C3%BCnyamin-altan-932322243"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://atnbn.github.io/React-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atnbn&show_icons=true&locale=en&layout=compact" alt="atnbn" /></p>
+## About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atnbn&show_icons=true&locale=en" alt="atnbn" /></p>
+- 💼 **Frontend developer with 3 years of professional experience**: Angular, RxJS and NgRx at Sportec Solutions; Lit, React and Vue at Arsmedium, where I built accessible (WCAG) white-label web components for telecom brands.
+- 🤖 **I work with AI agents every day.** I write the spec, Claude Code implements it, and I review the diff and back it with tests.
+- 🌱 **Currently deepening:** software architecture, Postgres with Row Level Security and testing with Vitest.
+- 🔄 **Career changer:** from vehicle painter and Apple support to software developer.
+- 📫 **Open to frontend roles** from December 2026.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atnbn&" alt="atnbn" /></p>
+## Featured projects
+
+| Project                                                                                                     | What it is                                                                                                                                  | Stack                                  |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| **[ANIMORA](https://github.com/atnbn/Anomora)** · [live](https://anomora-umber.vercel.app)                  | Anime community with real sign-up, profiles protected by Row Level Security and live AniList data. Built spec-first, tested, checked in CI. | Next.js · Supabase · Tailwind · Vitest |
+| **[AniTracker](https://github.com/atnbn/anime-tracker)** · [live](https://anime-tracker-chi-sooty.vercel.app) | Personal anime library with watch status, episode progress and notes.                                                                       | React · TanStack Query · Supabase      |
+| **[Lexikon Extension](https://github.com/atnbn/Lexikon-Extension)**                                         | Browser extension: select a word and get an explanation from a local AI model via [its backend](https://github.com/atnbn/Backend-for-Lexikon-Extension). | JavaScript · Express                   |
+| **[Kanban](https://github.com/atnbn/Kanban)** · [live](https://kanban-azure-kappa.vercel.app)               | My first full-stack project: a ticket board with an Angular frontend and a Node.js backend.                                                 | Angular · Material · Node.js           |
+| **[Finanze-Tracker](https://github.com/atnbn/Finanze-Tracker)**                                             | Personal finance tracker.                                                                                                                   | Vue 3 · Vite                           |
+
+## Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,vue,lit,nextjs,ts,rxjs&perline=7" alt="Angular, React, Vue, Lit, Next.js, TypeScript, RxJS" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,tailwind,sass,vitest,git,github&perline=7" alt="Supabase, Firebase, Tailwind, Sass, Vitest, Git, GitHub" />
+</p>
+
+Also: NgRx, Jasmine, WCAG accessibility, Scrum and Claude Code.
+
+## GitHub activity
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=atnbn&hide_border=true" alt="GitHub streak" />
+</p>
