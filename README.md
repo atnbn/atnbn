@@ -1,43 +1,86 @@
-<h1 align="center">Hi, I'm Bünyamin 👋</h1>
+<h1 align="center">Bünyamin Altan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=640&lines=Frontend+Developer+%C2%B7+Angular+%C2%B7+React+%C2%B7+Vue+%C2%B7+Lit;TypeScript%2C+Next.js+and+Supabase;Spec+%E2%86%92+AI+agent+%E2%86%92+review+%E2%86%92+tests" alt="Frontend Developer · Angular · React · Vue · Lit" />
+  <strong>Frontend developer · Accessible interfaces · Thoughtful engineering</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/b%C3%BCnyamin-altan-932322243"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://atnbn.github.io/React-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  3 years of professional experience across Angular, React, Vue and Lit.<br />
+  From reusable web components to full-stack side projects.
 </p>
 
-## About me
-
-- 💼 **Frontend developer with 3 years of professional experience**: Angular, RxJS and NgRx at Sportec Solutions; Lit, React and Vue at Arsmedium, where I built accessible (WCAG) white-label web components for telecom brands.
-- 🤖 **I work with AI agents every day.** I write the spec, Claude Code implements it, and I review the diff and back it with tests.
-- 🌱 **Currently deepening:** software architecture, Postgres with Row Level Security and testing with Vitest.
-- 🔄 **Career changer:** from vehicle painter and Apple support to software developer.
-- 📫 **Open to frontend roles** from December 2026.
-
-## Featured projects
-
-| Project                                                                                                     | What it is                                                                                                                                  | Stack                                  |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| **[ANIMORA](https://github.com/atnbn/Anomora)** · [live](https://anomora-umber.vercel.app)                  | Anime community with real sign-up, profiles protected by Row Level Security and live AniList data. Built spec-first, tested, checked in CI. | Next.js · Supabase · Tailwind · Vitest |
-| **[AniTracker](https://github.com/atnbn/anime-tracker)** · [live](https://anime-tracker-chi-sooty.vercel.app) | Personal anime library with watch status, episode progress and notes.                                                                       | React · TanStack Query · Supabase      |
-| **[Lexikon Extension](https://github.com/atnbn/Lexikon-Extension)**                                         | Browser extension: select a word and get an explanation from a local AI model via [its backend](https://github.com/atnbn/Backend-for-Lexikon-Extension). | JavaScript · Express                   |
-| **[Finanze-Tracker](https://github.com/atnbn/Finanze-Tracker)** · [live](https://www.atnbnm.online/)                                          | FinTrack: track spending, plan budgets and spot trends on a simple dashboard.                                                                                                                 | Vue 3 · Vite                           |
-
-## Tech stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,react,vue,lit,nextjs,ts,rxjs&perline=7" alt="Angular, React, Vue, Lit, Next.js, TypeScript, RxJS" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,tailwind,sass,vitest,git,github&perline=7" alt="Supabase, Firebase, Tailwind, Sass, Vitest, Git, GitHub" />
+<p align="center">
+  <a href="https://atnbn.github.io/React-Portfolio/"><strong>Portfolio ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/b%C3%BCnyamin-altan-932322243"><strong>LinkedIn ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/atnbn?tab=repositories"><strong>Repositories ↗</strong></a>
 </p>
 
-Also: NgRx, Jasmine, WCAG accessibility, Scrum and Claude Code.
+<p align="center"><sub>Open to frontend roles from December 2026</sub></p>
+
+---
+
+## A little about me
+
+I build interfaces with a focus on accessibility, reusable components and maintainable code.
+
+At **Sportec Solutions**, I worked with Angular, RxJS and NgRx. At **Arsmedium**, I built accessible white-label web components for telecom brands using Lit, React and Vue.
+
+My path into development started in vehicle painting and Apple support. Today, I bring that hands-on mindset to software: understand the problem, build carefully and check the result.
+
+## Selected work
+
+### [ANIMORA](https://github.com/atnbn/Anomora)
+An anime community with sign-up, profiles protected by Row Level Security and live AniList data. Built from written specs, with tests and CI checks.
+
+**Next.js · Supabase · Tailwind · Vitest**  
+[Explore the app ↗](https://anomora-umber.vercel.app) · [View source](https://github.com/atnbn/Anomora)
+
+### [AniTracker](https://github.com/atnbn/anime-tracker)
+A personal anime library for managing watch status, episode progress and notes.
+
+**React · TanStack Query · Supabase**  
+[Explore the app ↗](https://anime-tracker-chi-sooty.vercel.app) · [View source](https://github.com/atnbn/anime-tracker)
+
+### [FinTrack](https://github.com/atnbn/Finanze-Tracker)
+A finance dashboard to track spending, plan budgets and spot trends.
+
+**Vue 3 · Vite**  
+[Explore the app ↗](https://www.atnbnm.online/) · [View source](https://github.com/atnbn/Finanze-Tracker)
+
+### [Lexikon Extension](https://github.com/atnbn/Lexikon-Extension)
+Select a word in your browser and get an explanation from a local AI model.
+
+**JavaScript · Express**  
+[View extension](https://github.com/atnbn/Lexikon-Extension) · [View backend](https://github.com/atnbn/Backend-for-Lexikon-Extension)
+
+## Tools & technologies
+
+| Area | Technologies |
+| :--- | :--- |
+| Frontend | TypeScript, JavaScript, Angular, React, Vue, Lit, Next.js |
+| State & data | RxJS, NgRx, TanStack Query |
+| Backend & platforms | Supabase, Firebase, Express |
+| Styling | Tailwind CSS, Sass |
+| Quality & delivery | Vitest, Jasmine, WCAG accessibility, Git, GitHub, Scrum |
+
+## How I work
+
+**Spec → Implementation → Review → Tests**
+
+I use AI agents every day. I write the spec, work with Claude Code on the implementation, then review the diff and back it with tests.
+
+Currently deepening my knowledge of **software architecture**, **Postgres & Row Level Security**, and **testing with Vitest**.
 
 ## GitHub activity
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=atnbn&hide_border=true" alt="GitHub streak" />
+[View my contribution graph and recent activity ↗](https://github.com/atnbn#overview)
+
+---
+
+<p align="center">
+  Building something that needs a thoughtful frontend?<br />
+  <a href="https://www.linkedin.com/in/b%C3%BCnyamin-altan-932322243"><strong>Let's connect ↗</strong></a>
 </p>
+
