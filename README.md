@@ -36,8 +36,4 @@
 
 Also: NgRx, Jasmine, WCAG accessibility, Scrum and Claude Code.
 
-## GitHub activity
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=atnbn&hide_border=true" alt="GitHub streak" />
-</p>
